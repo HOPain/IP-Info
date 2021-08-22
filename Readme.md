@@ -1,6 +1,6 @@
 <h1 align="center">IP Information </h1>
 <h3>How Use IP Script? 🤔</h3>
-<p>It's very simple, just run it!<br>This script needs to be run using Python 3 🐍</p>
+> It's very simple, just run it!<br>This script needs to be run using Python 3 🐍
 
 ```py
 python3 ip.py
