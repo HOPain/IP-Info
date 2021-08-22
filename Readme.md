@@ -1,9 +1,11 @@
 <h1 align="center">IP Information </h1>
 <h3>How Use IP Script? 🤔</h3>
 <p>It's very simple, just run it!<br>This script needs to be run using Python 3 🐍</p>
+
 ```
 python3 ip.py
 ```
+
 <p align="center">
-  <img src="https://i.ibb.co/j88bHkc/image.png" alt="Script Result" width="162" height="211">
+  <img src="https://i.ibb.co/j88bHkc/image.png" alt="Script Result" width="211" height="162">
 </p>
